@@ -1,0 +1,12 @@
+{
+  "name": "UNIT DREAM LAUNCH",
+  "symbol": "DREAMLAUNCH",
+  "description": "DREAMLAUNCH",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitDreamLaunch/main/DreamLaunch512.png",
+  "creator": {
+    "name": "UNIT DREAM LAUNCH",
+    "site": "https://dream.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
